@@ -1,0 +1,17 @@
+
+
+#home {
+  background: #ffc107;
+}
+.marcador {
+  border-bottom: 1px solid gray;
+  padding-bottom: 0px 15px;
+}
+
+
+footer a{
+  padding: 0px 15px;
+  font-weight: bold;
+  color: white;
+}
+
